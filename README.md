@@ -1,4 +1,4 @@
-# Klempírské výrobky / Sheet Metal Products
+# Klempířské výrobky / Sheet Metal Products
 
 **User Manual — Allplan 2026**
 
