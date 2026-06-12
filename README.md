@@ -1,5 +1,4 @@
-# Klempířské výrobky / Sheet Metal Products
-
+# Klempířské výrobky / Sheet metal elements
 **User Manual — Allplan 2026**
 
 This tool creates 3D sheet-metal elements by extruding a cross-section profile along a polyline path you draw directly in the model.  Typical applications include flashings, copings, gutters, fascia panels, sill trims, and similar sheet-metal components.
